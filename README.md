@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm Radhik Bhojani</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 💬 Ask me about,<div style="text-align: justify"> **I am a skilled and experienced MERN (MongoDB, Express.js, React.js, Node.js) stack developer with over 4+ years of industry experience. With a strong background in web development, I have successfully delivered numerous projects using the MERN stack, catering to diverse client requirements. Throughout my career, I have gained proficiency in building robust and scalable applications, leveraging the power of JavaScript and its associated technologies. I possess a deep understanding of frontend development with React.js, ensuring the creation of highly interactive and user-friendly interfaces. On the backend, I excel in building efficient and secure APIs using Node.js and Express.js, seamlessly integrating with MongoDB for data storage and retrieval. My expertise extends to database design, RESTful architecture, and optimizing performance. Having worked on a variety of projects, I am well-versed in handling different aspects of web development, including user authentication, database management, API integration, and third-party API utilization. I have experience collaborating with cross-functional teams, following agile methodologies, and delivering projects within deadlines. My strong problem-solving skills, attention to detail, and passion for clean and maintainable code enable me to tackle complex challenges and deliver high-quality solutions. I continuously strive to stay updated with the latest industry trends and technologies to ensure that I am at the forefront of web development practices. As a MERN stack developer with 4+ years of experience, I am ready to contribute my skills and expertise to exciting projects, collaborating with teams to create innovative web applications that exceed client expectations.** </div> 
+- ## Software Engineer | Node.js | ReactJS | AI & Microservices Enthusiast  
+
+Experienced Software Engineer with **5 years** of expertise in **software development**, specializing in **Node.js** and **ReactJS**. Passionate about building **scalable, efficient, and AI-powered solutions** that drive innovation and streamline business operations.  
+
+### Key Achievements  
+- **Optimized Industrial Workflows**: Designed and implemented an **E-log sheet application**, reducing manual **pen-and-paper work** for refinery field users by **30-40%**, improving efficiency and accuracy.  
+- **AI-Driven Enhancements**: Integrated **Retrieval-Augmented Generation (RAG)** using **OpenAI’s LLMs**, enabling intelligent, **context-aware responses** to enhance user interactions and decision-making.  
+- **Microservices & Scalable Architectures**: Expertise in **microservices design**, optimizing workflows, and leveraging **AI-driven solutions** to solve real-world challenges.  
+
+### Technical Skills  
+- **Backend**: Node.js, Express.js, NestJS  
+- **Frontend**: ReactJS, Next.js  
+- **AI & ML**: OpenAI APIs, RAG, LLM Integration  
+- **Databases**: PostgreSQL, MongoDB, Redis  
+- **Cloud & DevOps**: AWS (Lambda, S3, EC2), Docker, Kubernetes, CI/CD  
+
+### Passion & Vision  
+Committed to leveraging cutting-edge technologies like **AI, microservices, and cloud computing** to build **high-performance, scalable, and intelligent applications**.  
+
 
 - 📫 How to reach me **bhojaniradhik9090@gmail.com**
 
